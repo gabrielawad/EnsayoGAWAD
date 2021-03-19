@@ -1,1 +1,3 @@
 # EnsayoGAWAD
+
+Explicaciones del proyecto
